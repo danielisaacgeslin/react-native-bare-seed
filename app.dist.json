@@ -2,8 +2,8 @@
   "name": "bareseed",
   "displayName": "React Native Bare Seed",
   "expo": {
-    "name": "test making sense",
-    "slug": "test-making-sense",
+    "name": "test bare seed",
+    "slug": "test-bare-seed",
     "version": "0.1.0",
     "sdkVersion": "34.0.0",
     "platforms": [
